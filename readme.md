@@ -1,5 +1,5 @@
-DIBUAT OLEH KELOMPOK A DARI KELAS F 
-UNTUK MEMENUHI FINAL PROJECT WIT
+Dibuat oleh Kelompok A dari Kelas F 
+untuk Memenuhi Final Project WIT
 ======================================================================
 
 ASSET SOURCE
